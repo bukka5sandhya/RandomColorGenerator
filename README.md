@@ -2,6 +2,9 @@ In this assignment, let's build a Random Color Generator by applying the concept
 
 Refer to the below image.
 
+![image](https://github.com/bukka5sandhya/RandomColorGenerator/assets/133884532/ae1f8292-3f64-48d1-bb39-79b231fe5476)
+
+
 https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/random-color-generator-v1.gif
 
 Instructions:
