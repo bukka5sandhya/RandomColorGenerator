@@ -1,0 +1,14 @@
+.bg-container{
+    height:100vh;
+}
+.main-heading{
+    font-family:'Roboto';
+    font-size:30px;
+    color:#323f4b;
+    padding:10px;
+
+
+}
+.button{
+    border-width:0px;
+}
